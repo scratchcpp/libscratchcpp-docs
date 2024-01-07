@@ -1,0 +1,20 @@
+<map id="ma_resampler" name="ma_resampler">
+<area shape="rect" id="Node000001" title=" " alt="" coords="103,579,206,605"/>
+<area shape="rect" id="Node000002" href="$structma__resampling__backend__vtable.html" title=" " alt="" coords="5,476,171,516"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="101,530,113,554,138,577,134,581,109,557,96,532"/>
+<area shape="rect" id="Node000003" href="$structma__linear__resampler.html" title=" " alt="" coords="195,483,336,509"/>
+<area shape="poly" id="edge2_Node000001_Node000003" title=" " alt="" coords="249,523,215,557,179,581,177,577,212,553,245,519"/>
+<area shape="rect" id="Node000004" href="$structma__linear__resampler__config.html" title=" " alt="" coords="147,372,288,413"/>
+<area shape="poly" id="edge3_Node000003_Node000004" title=" " alt="" coords="236,426,262,482,257,484,231,428"/>
+<area shape="rect" id="Node000005" href="$structma__lpf.html" title=" " alt="" coords="313,380,373,405"/>
+<area shape="poly" id="edge4_Node000003_Node000005" title=" " alt="" coords="326,419,277,484,272,481,322,416"/>
+<area shape="rect" id="Node000006" href="$structma__lpf1.html" title=" " alt="" coords="278,234,346,259"/>
+<area shape="poly" id="edge5_Node000005_Node000006" title=" " alt="" coords="317,274,322,308,341,378,336,380,317,310,312,275"/>
+<area shape="rect" id="Node000007" href="$unionma__biquad__coefficient.html" title=" " alt="" coords="273,5,423,31"/>
+<area shape="poly" id="edge6_Node000006_Node000007" title=" " alt="" coords="337,46,334,56,324,107,318,158,315,233,309,233,312,157,318,106,329,54,332,45"/>
+<area shape="rect" id="Node000009" href="$structma__biquad.html" title=" " alt="" coords="362,184,446,210"/>
+<area shape="poly" id="edge9_Node000009_Node000007" title=" " alt="" coords="359,45,403,183,398,185,354,47"/>
+<area shape="rect" id="Node000008" href="$structma__lpf2.html" title=" " alt="" coords="373,283,440,309"/>
+<area shape="poly" id="edge7_Node000005_Node000008" title=" " alt="" coords="392,323,353,380,349,377,388,320"/>
+<area shape="poly" id="edge8_Node000008_Node000009" title=" " alt="" coords="407,225,409,283,404,283,402,225"/>
+</map>

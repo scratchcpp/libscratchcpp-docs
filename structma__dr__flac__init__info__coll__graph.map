@@ -1,0 +1,15 @@
+<map id="ma_dr_flac_init_info" name="ma_dr_flac_init_info">
+<area shape="rect" id="Node000001" title=" " alt="" coords="602,104,738,130"/>
+<area shape="rect" id="Node000002" href="$structma__dr__flac__metadata.html" title=" " alt="" coords="293,29,439,55"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="454,51,516,63,579,78,640,101,639,106,577,83,515,68,453,57"/>
+<area shape="rect" id="Node000003" href="$structma__dr__flac__streaminfo.html" title=" " alt="" coords="5,5,158,31"/>
+<area shape="poly" id="edge2_Node000002_Node000003" title=" " alt="" coords="174,23,293,33,292,39,173,29"/>
+<area shape="rect" id="Node000004" href="$structma__dr__flac__seekpoint.html" title=" " alt="" coords="8,55,155,80"/>
+<area shape="poly" id="edge3_Node000002_Node000004" title=" " alt="" coords="170,58,256,51,292,47,293,52,257,56,171,63"/>
+<area shape="rect" id="Node000005" href="$structma__dr__flac__bs.html" title=" " alt="" coords="313,79,419,104"/>
+<area shape="poly" id="edge4_Node000001_Node000005" title=" " alt="" coords="434,94,602,109,602,114,434,100"/>
+<area shape="rect" id="Node000006" href="$structma__dr__flac__frame__header.html" title=" " alt="" coords="281,128,451,154"/>
+<area shape="poly" id="edge5_Node000001_Node000006" title=" " alt="" coords="467,140,578,133,612,128,613,133,578,138,467,145"/>
+<area shape="rect" id="Node000007" href="$structma__dr__flac__ogg__page__header.html" title=" " alt="" coords="292,178,440,219"/>
+<area shape="poly" id="edge6_Node000001_Node000007" title=" " alt="" coords="455,186,516,175,577,159,613,144,645,128,647,133,615,149,579,164,517,180,455,191"/>
+</map>

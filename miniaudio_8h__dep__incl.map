@@ -1,0 +1,11 @@
+<map id="src/audio/thirdparty/miniaudio/miniaudio.h" name="src/audio/thirdparty/miniaudio/miniaudio.h">
+<area shape="rect" id="Node000001" title=" " alt="" coords="200,5,350,46"/>
+<area shape="rect" id="Node000002" href="$audioengine_8h.html" title=" " alt="" coords="108,102,266,127"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="246,59,201,103,197,99,242,55"/>
+<area shape="rect" id="Node000005" href="$miniaudio_8c.html" title=" " alt="" coords="290,94,439,135"/>
+<area shape="poly" id="edge4_Node000001_Node000005" title=" " alt="" coords="308,55,346,92,342,95,304,59"/>
+<area shape="rect" id="Node000003" href="$audioengine_8cpp.html" title=" " alt="" coords="5,183,177,208"/>
+<area shape="poly" id="edge2_Node000002_Node000003" title=" " alt="" coords="162,139,107,184,104,180,159,135"/>
+<area shape="rect" id="Node000004" href="$audioplayer_8cpp.html" title=" " alt="" coords="201,183,368,208"/>
+<area shape="poly" id="edge3_Node000002_Node000004" title=" " alt="" coords="215,135,271,180,268,184,212,139"/>
+</map>

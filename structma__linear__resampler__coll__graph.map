@@ -1,0 +1,16 @@
+<map id="ma_linear_resampler" name="ma_linear_resampler">
+<area shape="rect" id="Node000001" title=" " alt="" coords="39,476,180,501"/>
+<area shape="rect" id="Node000002" href="$structma__linear__resampler__config.html" title=" " alt="" coords="5,372,147,413"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="90,426,108,475,103,476,85,428"/>
+<area shape="rect" id="Node000003" href="$structma__lpf.html" title=" " alt="" coords="171,380,232,405"/>
+<area shape="poly" id="edge2_Node000001_Node000003" title=" " alt="" coords="181,418,123,477,119,473,177,414"/>
+<area shape="rect" id="Node000004" href="$structma__lpf1.html" title=" " alt="" coords="137,234,204,259"/>
+<area shape="poly" id="edge3_Node000003_Node000004" title=" " alt="" coords="176,274,181,308,200,378,195,380,175,310,170,275"/>
+<area shape="rect" id="Node000005" href="$unionma__biquad__coefficient.html" title=" " alt="" coords="132,5,281,31"/>
+<area shape="poly" id="edge4_Node000004_Node000005" title=" " alt="" coords="196,46,193,56,182,107,176,158,173,233,168,233,171,157,177,106,188,54,191,45"/>
+<area shape="rect" id="Node000007" href="$structma__biquad.html" title=" " alt="" coords="221,184,305,210"/>
+<area shape="poly" id="edge7_Node000007_Node000005" title=" " alt="" coords="218,45,261,183,256,185,213,47"/>
+<area shape="rect" id="Node000006" href="$structma__lpf2.html" title=" " alt="" coords="232,283,299,309"/>
+<area shape="poly" id="edge5_Node000003_Node000006" title=" " alt="" coords="251,323,212,380,207,377,246,320"/>
+<area shape="poly" id="edge6_Node000006_Node000007" title=" " alt="" coords="266,225,268,283,262,283,261,225"/>
+</map>

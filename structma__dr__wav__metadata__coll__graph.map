@@ -1,0 +1,25 @@
+<map id="ma_dr_wav_metadata" name="ma_dr_wav_metadata">
+<area shape="rect" id="Node000001" title=" " alt="" coords="644,205,793,231"/>
+<area shape="rect" id="Node000002" href="$structma__dr__wav__cue.html" title=" " alt="" coords="324,8,440,33"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="456,15,496,18,539,25,582,38,622,58,658,92,685,133,705,173,716,204,711,205,700,175,681,136,654,96,618,63,580,43,538,30,495,23,455,20"/>
+<area shape="rect" id="Node000003" href="$structma__dr__wav__cue__point.html" title=" " alt="" coords="7,8,158,33"/>
+<area shape="poly" id="edge2_Node000002_Node000003" title=" " alt="" coords="173,18,323,18,323,23,173,23"/>
+<area shape="rect" id="Node000004" href="$structma__dr__wav__smpl.html" title=" " alt="" coords="320,57,444,83"/>
+<area shape="poly" id="edge3_Node000001_Node000004" title=" " alt="" coords="460,70,540,83,582,95,621,113,651,133,676,158,711,203,707,206,672,161,647,137,619,117,580,100,539,88,459,75"/>
+<area shape="rect" id="Node000005" href="$structma__dr__wav__smpl__loop.html" title=" " alt="" coords="5,57,160,83"/>
+<area shape="poly" id="edge4_Node000004_Node000005" title=" " alt="" coords="175,67,320,67,320,72,175,72"/>
+<area shape="rect" id="Node000006" href="$structma__dr__wav__acid.html" title=" " alt="" coords="322,106,442,132"/>
+<area shape="poly" id="edge5_Node000001_Node000006" title=" " alt="" coords="457,124,537,137,621,160,664,181,700,202,697,207,661,185,619,166,536,142,456,129"/>
+<area shape="rect" id="Node000007" href="$structma__dr__wav__inst.html" title=" " alt="" coords="324,156,440,181"/>
+<area shape="poly" id="edge6_Node000001_Node000007" title=" " alt="" coords="455,173,620,195,656,202,655,207,620,200,455,178"/>
+<area shape="rect" id="Node000008" href="$structma__dr__wav__bext.html" title=" " alt="" coords="322,205,442,231"/>
+<area shape="poly" id="edge7_Node000001_Node000008" title=" " alt="" coords="457,215,644,215,644,220,457,220"/>
+<area shape="rect" id="Node000009" href="$structma__dr__wav__list__label__or__note.html" title=" " alt="" coords="309,255,455,295"/>
+<area shape="poly" id="edge8_Node000001_Node000009" title=" " alt="" coords="470,260,620,235,655,229,656,234,620,241,471,265"/>
+<area shape="rect" id="Node000010" href="$structma__dr__wav__list__labelled__cue__region.html" title=" " alt="" coords="300,320,464,361"/>
+<area shape="poly" id="edge9_Node000001_Node000010" title=" " alt="" coords="478,319,548,300,619,274,662,252,697,229,700,233,665,256,621,279,550,305,479,324"/>
+<area shape="rect" id="Node000011" href="$structma__dr__wav__list__info__text.html" title=" " alt="" coords="298,385,466,411"/>
+<area shape="poly" id="edge10_Node000001_Node000011" title=" " alt="" coords="480,383,551,364,586,350,619,332,648,308,673,280,708,230,712,233,677,283,652,312,621,336,588,355,553,369,482,388"/>
+<area shape="rect" id="Node000012" href="$structma__dr__wav__unknown__metadata.html" title=" " alt="" coords="278,434,486,460"/>
+<area shape="poly" id="edge11_Node000001_Node000012" title=" " alt="" coords="500,440,562,425,592,412,618,396,639,378,656,357,683,310,702,264,712,230,717,232,707,266,688,312,660,360,642,382,622,400,594,417,564,430,502,445"/>
+</map>

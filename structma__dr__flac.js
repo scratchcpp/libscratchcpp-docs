@@ -1,0 +1,25 @@
+var structma__dr__flac =
+[
+    [ "_noBinarySearchSeek", "structma__dr__flac.html#a80635a02869150e4553d0342f35f0db8", null ],
+    [ "_noBruteForceSeek", "structma__dr__flac.html#a71922f58984294c033de7e68058d2f00", null ],
+    [ "_noSeekTableSeek", "structma__dr__flac.html#a223c0cc57cb9d2f61e90f7a55fbdd9c0", null ],
+    [ "_oggbs", "structma__dr__flac.html#acb4cae20c57ac24685d194efd3c75f22", null ],
+    [ "allocationCallbacks", "structma__dr__flac.html#a99e116af647314f8717efa365a48d9f3", null ],
+    [ "bitsPerSample", "structma__dr__flac.html#a38fdbc00572473d70810300df1e3243e", null ],
+    [ "bs", "structma__dr__flac.html#a821b66ad92a48ee7980df059f1e2f8ce", null ],
+    [ "channels", "structma__dr__flac.html#a90fe4d54bafe148b07ac37c366ec3345", null ],
+    [ "container", "structma__dr__flac.html#a94137074c5a9108f62f393f5990fc6ea", null ],
+    [ "currentFLACFrame", "structma__dr__flac.html#a84caeb671ba8dd32c8c37abc8c991171", null ],
+    [ "currentPCMFrame", "structma__dr__flac.html#a76dfa8737360f2e7755c3d3f494b80a1", null ],
+    [ "firstFLACFramePosInBytes", "structma__dr__flac.html#a690a928cb4d151a336d7a8c1440c345b", null ],
+    [ "maxBlockSizeInPCMFrames", "structma__dr__flac.html#a9e250b51be66bb3652114d5becab214e", null ],
+    [ "memoryStream", "structma__dr__flac.html#a5736bc2f31fbbba40c072e34cddaaa03", null ],
+    [ "onMeta", "structma__dr__flac.html#a7ef372fe83b6d7f87165589980116f20", null ],
+    [ "pDecodedSamples", "structma__dr__flac.html#a218d3d39ecec45553da401426c599928", null ],
+    [ "pExtraData", "structma__dr__flac.html#a9df11027042fd49a776f840213d42bf9", null ],
+    [ "pSeekpoints", "structma__dr__flac.html#af980d76cb0b3031203038be75b0a9204", null ],
+    [ "pUserDataMD", "structma__dr__flac.html#a04bbb9c47f630d22bb914e050454421e", null ],
+    [ "sampleRate", "structma__dr__flac.html#ae9b82d4b67892741a78ea1761df62c1a", null ],
+    [ "seekpointCount", "structma__dr__flac.html#a4d47f28f64716339a003c748a6aeb88a", null ],
+    [ "totalPCMFrameCount", "structma__dr__flac.html#a4e75d4406f9289a9e137311e10f228c0", null ]
+];

@@ -1,0 +1,22 @@
+<map id="src/scratchconfiguration.cpp" name="src/scratchconfiguration.cpp">
+<area shape="rect" id="Node000001" title=" " alt="" coords="397,5,581,31"/>
+<area shape="rect" id="Node000002" href="$scratchconfiguration_8h.html" title=" " alt="" coords="5,79,221,105"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="425,34,192,78,191,73,424,29"/>
+<area shape="rect" id="Node000006" href="$igraphicseffect_8h.html" title=" " alt="" coords="245,79,429,105"/>
+<area shape="poly" id="edge5_Node000001_Node000006" title=" " alt="" coords="464,34,378,74,376,70,462,29"/>
+<area shape="rect" id="Node000008" title=" " alt="" coords="453,79,525,105"/>
+<area shape="poly" id="edge8_Node000001_Node000008" title=" " alt="" coords="492,31,492,63,486,63,486,31"/>
+<area shape="rect" id="Node000009" title=" " alt="" coords="548,79,710,105"/>
+<area shape="poly" id="edge9_Node000001_Node000009" title=" " alt="" coords="514,29,593,69,591,74,512,34"/>
+<area shape="rect" id="Node000010" title=" " alt="" coords="734,79,895,105"/>
+<area shape="poly" id="edge10_Node000001_Node000010" title=" " alt="" coords="545,29,745,73,744,78,544,34"/>
+<area shape="rect" id="Node000003" title=" " alt="" coords="7,153,75,178"/>
+<area shape="poly" id="edge2_Node000002_Node000003" title=" " alt="" coords="103,107,66,143,62,140,99,103"/>
+<area shape="rect" id="Node000004" title=" " alt="" coords="99,153,156,178"/>
+<area shape="poly" id="edge3_Node000002_Node000004" title=" " alt="" coords="118,104,125,137,119,138,113,105"/>
+<area shape="rect" id="Node000005" href="$global_8h.html" title=" " alt="" coords="207,153,272,178"/>
+<area shape="poly" id="edge4_Node000002_Node000005" title=" " alt="" coords="136,103,206,142,204,147,133,108"/>
+<area shape="poly" id="edge7_Node000006_Node000005" title=" " alt="" coords="322,107,270,146,266,141,319,103"/>
+<area shape="rect" id="Node000007" title=" " alt="" coords="310,153,364,178"/>
+<area shape="poly" id="edge6_Node000006_Node000007" title=" " alt="" coords="340,105,340,137,334,137,334,105"/>
+</map>

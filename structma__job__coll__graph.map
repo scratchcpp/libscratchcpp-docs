@@ -1,0 +1,8 @@
+<map id="ma_job" name="ma_job">
+<area shape="rect" id="Node000001" title=" " alt="" coords="13,198,76,223"/>
+<area shape="poly" id="edge1_Node000001_Node000001" title=" " alt="" coords="93,200,100,204,103,211,94,221,77,223,76,218,92,216,98,210,96,207,90,205"/>
+<area shape="rect" id="Node000002" href="$structma__fence.html" title=" " alt="" coords="5,94,84,120"/>
+<area shape="poly" id="edge2_Node000001_Node000002" title=" " alt="" coords="47,135,47,197,42,197,42,135"/>
+<area shape="rect" id="Node000003" href="$structma__event.html" title=" " alt="" coords="5,5,84,31"/>
+<area shape="poly" id="edge3_Node000002_Node000003" title=" " alt="" coords="47,47,47,94,42,94,42,47"/>
+</map>

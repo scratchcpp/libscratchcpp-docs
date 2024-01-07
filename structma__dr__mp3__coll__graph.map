@@ -1,0 +1,9 @@
+<map id="ma_dr_mp3" name="ma_dr_mp3">
+<area shape="rect" id="Node000001" title=" " alt="" coords="177,94,267,120"/>
+<area shape="rect" id="Node000002" href="$structma__dr__mp3dec.html" title=" " alt="" coords="5,5,116,31"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="98,36,200,91,198,96,95,41"/>
+<area shape="rect" id="Node000003" href="$structma__allocation__callbacks.html" title=" " alt="" coords="140,5,304,31"/>
+<area shape="poly" id="edge2_Node000001_Node000003" title=" " alt="" coords="225,47,225,94,219,94,219,47"/>
+<area shape="rect" id="Node000004" href="$structma__dr__mp3__seek__point.html" title=" " alt="" coords="328,5,487,31"/>
+<area shape="poly" id="edge3_Node000001_Node000004" title=" " alt="" coords="385,44,343,72,305,88,267,99,266,94,303,83,341,68,382,39"/>
+</map>

@@ -1,0 +1,13 @@
+<map id="include/scratchcpp/stage.h" name="include/scratchcpp/stage.h">
+<area shape="rect" id="Node000001" title=" " alt="" coords="13,5,143,46"/>
+<area shape="rect" id="Node000002" title=" " alt="" coords="10,94,63,120"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="70,48,52,81,48,79,65,45"/>
+<area shape="rect" id="Node000003" href="$target_8h.html" title=" " alt="" coords="87,94,152,120"/>
+<area shape="poly" id="edge2_Node000001_Node000003" title=" " alt="" coords="91,45,108,79,104,81,86,48"/>
+<area shape="rect" id="Node000004" title=" " alt="" coords="5,168,63,193"/>
+<area shape="poly" id="edge3_Node000003_Node000004" title=" " alt="" coords="107,122,61,160,58,156,103,118"/>
+<area shape="rect" id="Node000005" href="$global_8h.html" title=" " alt="" coords="87,168,152,193"/>
+<area shape="poly" id="edge4_Node000003_Node000005" title=" " alt="" coords="122,120,122,152,117,152,117,120"/>
+<area shape="rect" id="Node000006" title=" " alt="" coords="177,168,246,193"/>
+<area shape="poly" id="edge5_Node000003_Node000006" title=" " alt="" coords="137,118,186,156,182,160,133,122"/>
+</map>

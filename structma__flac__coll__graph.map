@@ -1,0 +1,28 @@
+<map id="ma_flac" name="ma_flac">
+<area shape="rect" id="Node000001" title=" " alt="" coords="842,144,909,170"/>
+<area shape="rect" id="Node000002" href="$structma__data__source__base.html" title=" " alt="" coords="625,63,777,88"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="746,93,847,141,845,146,743,98"/>
+<area shape="rect" id="Node000003" href="$structma__data__source__vtable.html" title=" " alt="" coords="301,5,460,31"/>
+<area shape="poly" id="edge2_Node000002_Node000003" title=" " alt="" coords="476,28,602,49,649,59,648,65,600,54,475,33"/>
+<area shape="rect" id="Node000004" href="$structma__dr__flac.html" title=" " alt="" coords="659,168,743,194"/>
+<area shape="poly" id="edge3_Node000001_Node000004" title=" " alt="" coords="759,180,818,175,842,168,844,173,819,180,759,185"/>
+<area shape="rect" id="Node000005" href="$structma__dr__flac__metadata.html" title=" " alt="" coords="308,55,453,80"/>
+<area shape="poly" id="edge4_Node000004_Node000005" title=" " alt="" coords="469,68,535,77,602,98,629,113,653,131,690,166,686,169,650,135,626,118,600,103,534,83,468,73"/>
+<area shape="rect" id="Node000006" href="$structma__dr__flac__streaminfo.html" title=" " alt="" coords="14,17,167,43"/>
+<area shape="poly" id="edge5_Node000005_Node000006" title=" " alt="" coords="183,39,307,55,307,61,182,45"/>
+<area shape="rect" id="Node000007" href="$structma__dr__flac__seekpoint.html" title=" " alt="" coords="17,87,164,112"/>
+<area shape="poly" id="edge12_Node000004_Node000007" title=" " alt="" coords="180,105,374,127,601,158,659,169,658,174,601,163,373,132,179,111"/>
+<area shape="poly" id="edge6_Node000005_Node000007" title=" " alt="" coords="179,87,307,73,308,78,180,92"/>
+<area shape="rect" id="Node000008" href="$structma__allocation__callbacks.html" title=" " alt="" coords="299,168,462,194"/>
+<area shape="poly" id="edge7_Node000004_Node000008" title=" " alt="" coords="477,178,659,178,659,184,477,184"/>
+<area shape="rect" id="Node000009" href="$structma__dr__flac__frame.html" title=" " alt="" coords="318,217,443,243"/>
+<area shape="poly" id="edge8_Node000004_Node000009" title=" " alt="" coords="457,219,601,199,658,187,659,193,601,204,458,224"/>
+<area shape="rect" id="Node000010" href="$structma__dr__flac__frame__header.html" title=" " alt="" coords="5,192,176,218"/>
+<area shape="poly" id="edge9_Node000009_Node000010" title=" " alt="" coords="191,211,318,222,317,227,191,216"/>
+<area shape="rect" id="Node000011" href="$structma__dr__flac__subframe.html" title=" " alt="" coords="18,241,163,267"/>
+<area shape="poly" id="edge10_Node000009_Node000011" title=" " alt="" coords="179,252,274,247,318,240,318,246,275,252,179,257"/>
+<area shape="rect" id="Node000012" href="$structma__dr__flac____memory__stream.html" title=" " alt="" coords="308,267,453,308"/>
+<area shape="poly" id="edge11_Node000004_Node000012" title=" " alt="" coords="467,272,533,257,600,236,644,215,680,192,682,196,646,219,602,241,535,262,468,277"/>
+<area shape="rect" id="Node000013" href="$structma__dr__flac__bs.html" title=" " alt="" coords="328,332,433,358"/>
+<area shape="poly" id="edge13_Node000004_Node000013" title=" " alt="" coords="448,337,524,321,563,308,600,290,629,267,655,241,690,193,694,196,659,244,633,271,602,294,565,313,525,326,449,342"/>
+</map>

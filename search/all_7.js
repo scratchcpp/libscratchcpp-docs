@@ -1,0 +1,26 @@
+var searchData=
+[
+  ['gaindb_0',['gainDB',['../structma__peak2__config.html#a3571add5bea3d235197ccbf4c50e04e0',1,'ma_peak2_config::gainDB'],['../structma__loshelf2__config.html#a7d96aca41b178baf6876e304ecda698d',1,'ma_loshelf2_config::gainDB'],['../structma__hishelf2__config.html#a8b52bf95ad7ba77e89a2d4413b1b80fd',1,'ma_hishelf2_config::gainDB']]],
+  ['gaindecibels_1',['gainDecibels',['../structma__dr__wav__inst.html#ad21505ad6f4f207dce85887abca83887',1,'ma_dr_wav_inst']]],
+  ['gainer_2',['gainer',['../structma__spatializer.html#aaaa569cd7111b06b9d402aa38d0d9d1f',1,'ma_spatializer']]],
+  ['gaineroffset_3',['gainerOffset',['../structma__spatializer__heap__layout.html#a9ec728400027cfacc411b11a9818684c',1,'ma_spatializer_heap_layout::gainerOffset'],['../structma__engine__node__heap__layout.html#a3d842b8abd9a2a12ee67000d8bcc438b',1,'ma_engine_node_heap_layout::gainerOffset']]],
+  ['gainsmoothtimeinframes_4',['gainSmoothTimeInFrames',['../structma__spatializer__config.html#a3eb4f0159ee4c4eaf51a414270b9d4cf',1,'ma_spatializer_config::gainSmoothTimeInFrames'],['../structma__spatializer.html#a5a84bb68228868bfb6dc7a7bf3c6b9f0',1,'ma_spatializer::gainSmoothTimeInFrames'],['../structma__engine__config.html#af9b1b7bf24e441ae6aa4cb88c7bfc2aa',1,'ma_engine_config::gainSmoothTimeInFrames'],['../structma__engine.html#a12f56c0666e4f8c9a78b337baa870ad7',1,'ma_engine::gainSmoothTimeInFrames']]],
+  ['gainsmoothtimeinmilliseconds_5',['gainSmoothTimeInMilliseconds',['../structma__engine__config.html#a00a6b07c87f4d7367718616a443197d0',1,'ma_engine_config']]],
+  ['getextension_6',['getExtension',['../classlibscratchcpp_1_1ScratchConfiguration.html#a803f826d303fde0bbc693a000985cd6e',1,'libscratchcpp::ScratchConfiguration::getExtension(const std::string &amp;name)'],['../classlibscratchcpp_1_1ScratchConfiguration.html#a2475e6918980dd2037312a4ce8090740',1,'libscratchcpp::ScratchConfiguration::getExtension()']]],
+  ['getgraphicseffect_7',['getGraphicsEffect',['../classlibscratchcpp_1_1ScratchConfiguration.html#a0c2ad7f66815765d85b3b87135925d55',1,'libscratchcpp::ScratchConfiguration']]],
+  ['getinput_8',['getInput',['../classlibscratchcpp_1_1VirtualMachine.html#a8a084480d94055cf3071afa1ff729b85',1,'libscratchcpp::VirtualMachine']]],
+  ['getting_20started_9',['Getting started',['../gettingStarted.html',1,'Getting started'],['../index.html#autotoc_md13',1,'Getting started']]],
+  ['getting_20started_2emd_10',['Getting started.md',['../Getting_01started_8md.html',1,'']]],
+  ['global_2eh_11',['global.h',['../global_8h.html',1,'']]],
+  ['global_5fgain_12',['global_gain',['../structma__dr__mp3__L3__gr__info.html#a671aeb3456c3ba053e4c028c64df9d71',1,'ma_dr_mp3_L3_gr_info']]],
+  ['gr_5finfo_13',['gr_info',['../structma__dr__mp3dec__scratch.html#a31aedc2535d6196200c3807f46af4949',1,'ma_dr_mp3dec_scratch']]],
+  ['granuleposition_14',['granulePosition',['../structma__dr__flac__ogg__page__header.html#ac466ca8ae613d0fc2510e41938268508',1,'ma_dr_flac_ogg_page_header']]],
+  ['graphics_20effect_15',['Graphics effect',['../graphicsEffects.html#autotoc_md9',1,'Adding a custom graphics effect'],['../graphicsEffects.html#autotoc_md10',1,'Registering the graphics effect']]],
+  ['graphics_20effects_16',['Graphics effects',['../graphicsEffects.html',1,'']]],
+  ['graphics_20effects_2emd_17',['Graphics effects.md',['../Graphics_01effects_8md.html',1,'']]],
+  ['graphicseffectvalue_18',['graphicsEffectValue',['../classlibscratchcpp_1_1Target.html#a7554a18cb20b657abcee2e269ff6c71c',1,'libscratchcpp::Target']]],
+  ['grbuf_19',['grbuf',['../structma__dr__mp3dec__scratch.html#af973b14eb9e232a66281dcb476777731',1,'ma_dr_mp3dec_scratch']]],
+  ['greenflagblocks_20',['greenFlagBlocks',['../classlibscratchcpp_1_1Target.html#a94827aafdf196f27c6e768b272a62381',1,'libscratchcpp::Target']]],
+  ['groupsoffset_21',['groupsOffset',['../structma__slot__allocator__heap__layout.html#aeb8b336f4e8a1fcbcc8b68eff27bfdf7',1,'ma_slot_allocator_heap_layout']]],
+  ['guid_22',['guid',['../structma__dr__wav__chunk__header.html#a013679ff0d9de2af92fa95a80f6ad3b4',1,'ma_dr_wav_chunk_header']]]
+];

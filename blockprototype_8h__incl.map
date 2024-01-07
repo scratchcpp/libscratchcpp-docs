@@ -1,0 +1,23 @@
+<map id="include/scratchcpp/blockprototype.h" name="include/scratchcpp/blockprototype.h">
+<area shape="rect" id="Node000001" title=" " alt="" coords="139,5,269,46"/>
+<area shape="rect" id="Node000002" title=" " alt="" coords="87,94,145,120"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="184,48,143,85,139,81,180,44"/>
+<area shape="rect" id="Node000003" title=" " alt="" coords="169,94,239,120"/>
+<area shape="poly" id="edge2_Node000001_Node000003" title=" " alt="" coords="207,46,207,78,201,78,201,46"/>
+<area shape="rect" id="Node000004" href="$value_8h.html" title=" " alt="" coords="262,94,325,120"/>
+<area shape="poly" id="edge3_Node000001_Node000004" title=" " alt="" coords="228,44,270,82,267,86,224,48"/>
+<area shape="rect" id="Node000005" title=" " alt="" coords="5,168,59,193"/>
+<area shape="poly" id="edge4_Node000004_Node000005" title=" " alt="" coords="262,119,251,122,74,170,73,164,250,117,261,114"/>
+<area shape="rect" id="Node000006" title=" " alt="" coords="83,168,144,193"/>
+<area shape="poly" id="edge5_Node000004_Node000006" title=" " alt="" coords="264,123,159,164,157,159,262,118"/>
+<area shape="rect" id="Node000007" title=" " alt="" coords="168,168,243,193"/>
+<area shape="poly" id="edge6_Node000004_Node000007" title=" " alt="" coords="280,122,234,160,230,156,277,118"/>
+<area shape="rect" id="Node000008" title=" " alt="" coords="267,168,320,193"/>
+<area shape="poly" id="edge7_Node000004_Node000008" title=" " alt="" coords="296,120,296,152,291,152,291,120"/>
+<area shape="rect" id="Node000009" title=" " alt="" coords="343,168,412,193"/>
+<area shape="poly" id="edge8_Node000004_Node000009" title=" " alt="" coords="309,118,353,155,350,159,306,122"/>
+<area shape="rect" id="Node000010" title=" " alt="" coords="436,168,489,193"/>
+<area shape="poly" id="edge9_Node000004_Node000010" title=" " alt="" coords="323,118,423,160,421,164,321,123"/>
+<area shape="rect" id="Node000011" href="$global_8h.html" title=" " alt="" coords="514,168,579,193"/>
+<area shape="poly" id="edge10_Node000004_Node000011" title=" " alt="" coords="326,114,500,163,499,168,324,120"/>
+</map>

@@ -1,0 +1,13 @@
+<map id="src/audio/audioengine.h" name="src/audio/audioengine.h">
+<area shape="rect" id="Node000001" title=" " alt="" coords="11,5,168,31"/>
+<area shape="rect" id="Node000002" title=" " alt="" coords="5,79,73,105"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="83,33,58,68,54,65,79,30"/>
+<area shape="rect" id="Node000003" href="$miniaudio_8h.html" title=" " alt="" coords="97,79,184,105"/>
+<area shape="poly" id="edge2_Node000001_Node000003" title=" " alt="" coords="100,30,125,65,121,68,96,33"/>
+<area shape="rect" id="Node000004" title=" " alt="" coords="12,153,79,178"/>
+<area shape="poly" id="edge3_Node000003_Node000004" title=" " alt="" coords="126,107,75,145,72,141,123,103"/>
+<area shape="rect" id="Node000005" title=" " alt="" coords="103,153,178,178"/>
+<area shape="poly" id="edge4_Node000003_Node000005" title=" " alt="" coords="143,105,143,137,138,137,138,105"/>
+<area shape="rect" id="Node000006" title=" " alt="" coords="201,153,269,178"/>
+<area shape="poly" id="edge5_Node000003_Node000006" title=" " alt="" coords="158,103,209,141,205,145,155,107"/>
+</map>

@@ -1,0 +1,27 @@
+var structma__dr__mp3 =
+[
+    [ "allocationCallbacks", "structma__dr__mp3.html#a97d69bd1cc30ddc7e130fe8c33144b54", null ],
+    [ "atEnd", "structma__dr__mp3.html#ad026f781f90eeb354c5a5b44ce4d5aa8", null ],
+    [ "channels", "structma__dr__mp3.html#a65c609ea1c98834104139b29053417bc", null ],
+    [ "currentPCMFrame", "structma__dr__mp3.html#adc5151cbed5e8f7379cffa166402eb71", null ],
+    [ "currentReadPos", "structma__dr__mp3.html#af04b19ea55f0c379a965314a112f1536", null ],
+    [ "dataCapacity", "structma__dr__mp3.html#aa245feed3bd7307ac12caf903360ad75", null ],
+    [ "dataConsumed", "structma__dr__mp3.html#a9999272f43bf219da7830dcb08c43002", null ],
+    [ "dataSize", "structma__dr__mp3.html#a8431d983f934ac5f85ac2e76b9ea534f", null ],
+    [ "decoder", "structma__dr__mp3.html#a23e82368bf5c31b073a3aef271e7469a", null ],
+    [ "memory", "structma__dr__mp3.html#a31be779fd40110f712567bdc4d7b8f12", null ],
+    [ "mp3FrameChannels", "structma__dr__mp3.html#a367dfbca64fd8516b06121c264242000", null ],
+    [ "mp3FrameSampleRate", "structma__dr__mp3.html#afd046cd92f33c1ac4a9db0c327141686", null ],
+    [ "onRead", "structma__dr__mp3.html#a73a65a9a1d04d34c5b96692267b193a4", null ],
+    [ "onSeek", "structma__dr__mp3.html#aa8cb3f7ff8ba2b175ed48ddd5e3bb0ed", null ],
+    [ "pcmFrames", "structma__dr__mp3.html#a76119f2bff7fa486ac42ea6d1bf104c5", null ],
+    [ "pcmFramesConsumedInMP3Frame", "structma__dr__mp3.html#a09782646c61b81f2cc33e1c746c928f9", null ],
+    [ "pcmFramesRemainingInMP3Frame", "structma__dr__mp3.html#adf3e4ba0bf0c09ddda761e55f756b472", null ],
+    [ "pData", "structma__dr__mp3.html#ad7041c3e13c4bed1cde9b9a62ba5d49d", null ],
+    [ "pData", "structma__dr__mp3.html#a161ca92f13b40fe5a28b431c7c82257d", null ],
+    [ "pSeekPoints", "structma__dr__mp3.html#affd761d886aab01e24eaa4a0b62f9f09", null ],
+    [ "pUserData", "structma__dr__mp3.html#a096c17d2ae39e18933e50ca2ba31ef70", null ],
+    [ "sampleRate", "structma__dr__mp3.html#a79f8dc388d3814dfc21f3c3cf73d8b63", null ],
+    [ "seekPointCount", "structma__dr__mp3.html#a166072e4dbea3320b99ee443ea539d26", null ],
+    [ "streamCursor", "structma__dr__mp3.html#a5532e39bcc66dd66f0411ebd67767c41", null ]
+];
