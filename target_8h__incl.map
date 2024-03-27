@@ -1,0 +1,15 @@
+<map id="include/scratchcpp/target.h" name="include/scratchcpp/target.h">
+<area shape="rect" id="Node000001" title=" " alt="" coords="68,5,198,46"/>
+<area shape="rect" id="Node000002" title=" " alt="" coords="5,94,63,120"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="110,48,63,86,59,82,107,44"/>
+<area shape="rect" id="Node000003" href="$global_8h.html" title=" " alt="" coords="85,168,151,193"/>
+<area shape="poly" id="edge2_Node000001_Node000003" title=" " alt="" coords="133,47,129,94,123,152,118,152,123,94,128,46"/>
+<area shape="rect" id="Node000005" title=" " alt="" coords="185,168,254,193"/>
+<area shape="poly" id="edge4_Node000001_Node000005" title=" " alt="" coords="162,45,186,66,206,93,217,123,221,152,216,153,211,124,201,95,182,69,159,48"/>
+<area shape="rect" id="Node000006" href="$rect_8h.html" title=" " alt="" coords="138,94,191,120"/>
+<area shape="poly" id="edge5_Node000001_Node000006" title=" " alt="" coords="143,45,157,79,152,81,138,47"/>
+<area shape="rect" id="Node000004" title=" " alt="" coords="91,241,145,267"/>
+<area shape="poly" id="edge3_Node000003_Node000004" title=" " alt="" coords="121,194,121,226,115,226,115,194"/>
+<area shape="poly" id="edge6_Node000006_Node000003" title=" " alt="" coords="159,121,136,156,132,153,155,118"/>
+<area shape="poly" id="edge7_Node000006_Node000005" title=" " alt="" coords="176,118,203,154,199,157,172,122"/>
+</map>

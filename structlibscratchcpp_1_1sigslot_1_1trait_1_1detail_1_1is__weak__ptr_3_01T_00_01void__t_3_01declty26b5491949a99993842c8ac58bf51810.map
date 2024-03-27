@@ -1,0 +1,5 @@
+<map id="libscratchcpp::sigslot::trait::detail::is_weak_ptr&lt; T, void_t&lt; decltype(std::declval&lt; T &gt;().expired()), decltype(std::declval&lt; T &gt;().lock()), decltype(std::declval&lt; T &gt;().reset())&gt; &gt;" name="libscratchcpp::sigslot::trait::detail::is_weak_ptr&lt; T, void_t&lt; decltype(std::declval&lt; T &gt;().expired()), decltype(std::declval&lt; T &gt;().lock()), decltype(std::declval&lt; T &gt;().reset())&gt; &gt;">
+<area shape="rect" id="Node000001" title=" " alt="" coords="5,79,178,195"/>
+<area shape="rect" id="Node000002" title=" " alt="" coords="42,5,141,31"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="94,47,94,79,89,79,89,47"/>
+</map>

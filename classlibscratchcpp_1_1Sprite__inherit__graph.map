@@ -1,0 +1,7 @@
+<map id="libscratchcpp::Sprite" name="libscratchcpp::Sprite">
+<area shape="rect" id="Node000001" title="The Sprite class represents a Scratch sprite." alt="" coords="88,94,227,120"/>
+<area shape="rect" id="Node000002" href="$classlibscratchcpp_1_1Target.html" title="The Target class is the Stage or a Sprite." alt="" coords="5,13,147,39"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="101,48,147,92,143,95,97,51"/>
+<area shape="rect" id="Node000003" title=" " alt="" coords="171,5,309,46"/>
+<area shape="poly" id="edge2_Node000001_Node000003" title=" " alt="" coords="211,59,172,95,168,91,207,55"/>
+</map>

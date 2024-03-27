@@ -1,0 +1,9 @@
+var searchData=
+[
+  ['object_5fpointer_0',['object_pointer',['../structlibscratchcpp_1_1sigslot_1_1detail_1_1object__pointer.html',1,'libscratchcpp::sigslot::detail']]],
+  ['object_5fpointer_3c_20t_20_2a_2c_20std_3a_3aenable_5fif_5ft_3c_20trait_3a_3ais_5fpointer_5fv_3c_20t_20_2a_20_3e_20_3e_20_3e_1',['object_pointer&lt; T *, std::enable_if_t&lt; trait::is_pointer_v&lt; T * &gt; &gt; &gt;',['../structlibscratchcpp_1_1sigslot_1_1detail_1_1object__pointer_3_01T_01_5_00_01std_1_1enable__if__tbed174b4c73e6dfa1c80195cb76fccfc.html',1,'libscratchcpp::sigslot::detail']]],
+  ['object_5fpointer_3c_20t_2c_20std_3a_3aenable_5fif_5ft_3c_20trait_3a_3ais_5fweak_5fptr_5fv_3c_20t_20_3e_20_3e_20_3e_2',['object_pointer&lt; T, std::enable_if_t&lt; trait::is_weak_ptr_v&lt; T &gt; &gt; &gt;',['../structlibscratchcpp_1_1sigslot_1_1detail_1_1object__pointer_3_01T_00_01std_1_1enable__if__t_3_01208f447a1bd6172eae36ce54effdc451.html',1,'libscratchcpp::sigslot::detail']]],
+  ['object_5fpointer_3c_20t_2c_20std_3a_3aenable_5fif_5ft_3c_21trait_3a_3ais_5fpointer_5fv_3c_20t_20_3e_20_26_26_21trait_3a_3ais_5fweak_5fptr_5fv_3c_20t_20_3e_20_26_26trait_3a_3ais_5fweak_5fptr_5fcompatible_5fv_3c_20t_20_3e_20_3e_20_3e_3',['object_pointer&lt; T, std::enable_if_t&lt;!trait::is_pointer_v&lt; T &gt; &amp;&amp;!trait::is_weak_ptr_v&lt; T &gt; &amp;&amp;trait::is_weak_ptr_compatible_v&lt; T &gt; &gt; &gt;',['../structlibscratchcpp_1_1sigslot_1_1detail_1_1object__pointer_3_01T_00_01std_1_1enable__if__t_3_9t107f08fe6489126339c0cda29cee32ff.html',1,'libscratchcpp::sigslot::detail']]],
+  ['observer_5fbase_4',['observer_base',['../structlibscratchcpp_1_1sigslot_1_1observer__base.html',1,'libscratchcpp::sigslot']]],
+  ['observer_5ftype_5',['observer_type',['../structlibscratchcpp_1_1sigslot_1_1detail_1_1observer__type.html',1,'libscratchcpp::sigslot::detail']]]
+];

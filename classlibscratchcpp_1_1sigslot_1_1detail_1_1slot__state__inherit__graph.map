@@ -1,0 +1,19 @@
+<map id="libscratchcpp::sigslot::detail::slot_state" name="libscratchcpp::sigslot::detail::slot_state">
+<area shape="rect" id="Node000001" title=" " alt="" coords="5,246,148,287"/>
+<area shape="rect" id="Node000002" href="$classlibscratchcpp_1_1sigslot_1_1detail_1_1slot__base.html" title=" " alt="" coords="196,213,374,254"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="162,250,195,245,195,250,163,255"/>
+<area shape="rect" id="Node000009" href="$classlibscratchcpp_1_1sigslot_1_1detail_1_1slot__base.html" title=" " alt="" coords="200,278,370,319"/>
+<area shape="poly" id="edge8_Node000001_Node000009" title=" " alt="" coords="164,277,200,283,199,288,163,282"/>
+<area shape="rect" id="Node000003" href="$classlibscratchcpp_1_1sigslot_1_1detail_1_1slot.html" title=" " alt="" coords="438,5,580,61"/>
+<area shape="poly" id="edge2_Node000002_Node000003" title=" " alt="" coords="306,198,354,135,386,101,420,71,438,59,441,64,424,75,389,105,358,139,310,202"/>
+<area shape="rect" id="Node000004" href="$classlibscratchcpp_1_1sigslot_1_1detail_1_1slot__extended.html" title=" " alt="" coords="437,85,581,141"/>
+<area shape="poly" id="edge3_Node000002_Node000004" title=" " alt="" coords="331,202,421,151,444,139,446,144,423,156,334,207"/>
+<area shape="rect" id="Node000005" href="$classlibscratchcpp_1_1sigslot_1_1detail_1_1slot__pmf.html" title=" " alt="" coords="432,165,585,221"/>
+<area shape="poly" id="edge4_Node000002_Node000005" title=" " alt="" coords="389,212,431,204,432,210,389,217"/>
+<area shape="rect" id="Node000006" href="$classlibscratchcpp_1_1sigslot_1_1detail_1_1slot__pmf__extended.html" title=" " alt="" coords="422,245,595,301"/>
+<area shape="poly" id="edge5_Node000002_Node000006" title=" " alt="" coords="390,249,422,255,421,260,389,254"/>
+<area shape="rect" id="Node000007" href="$classlibscratchcpp_1_1sigslot_1_1detail_1_1slot__pmf__tracked.html" title=" " alt="" coords="427,325,591,381"/>
+<area shape="poly" id="edge6_Node000002_Node000007" title=" " alt="" coords="365,258,376,264,391,276,400,288,424,311,442,322,439,327,420,315,396,291,387,280,372,269,363,263"/>
+<area shape="rect" id="Node000008" href="$classlibscratchcpp_1_1sigslot_1_1detail_1_1slot__tracked.html" title=" " alt="" coords="427,405,590,461"/>
+<area shape="poly" id="edge7_Node000002_Node000008" title=" " alt="" coords="372,261,376,265,389,281,396,297,401,329,406,360,412,375,424,391,437,403,434,407,420,395,408,378,401,361,396,330,391,299,384,284,372,268,368,265"/>
+</map>
