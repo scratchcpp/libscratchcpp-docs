@@ -1,0 +1,24 @@
+<map id="include/scratchcpp/value.h" name="include/scratchcpp/value.h">
+<area shape="rect" id="Node000001" title=" " alt="" coords="302,5,432,46"/>
+<area shape="rect" id="Node000002" title=" " alt="" coords="347,168,400,193"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="301,32,222,38,135,50,59,69,31,81,13,96,8,107,13,118,34,134,67,146,154,164,251,173,331,176,331,181,250,178,154,169,65,151,31,138,9,121,3,107,9,92,29,77,58,64,134,45,222,33,301,27"/>
+<area shape="rect" id="Node000003" title=" " alt="" coords="23,94,97,120"/>
+<area shape="poly" id="edge2_Node000001_Node000003" title=" " alt="" coords="302,46,113,95,112,90,300,41"/>
+<area shape="rect" id="Node000004" title=" " alt="" coords="122,94,174,120"/>
+<area shape="poly" id="edge3_Node000001_Node000004" title=" " alt="" coords="313,49,190,93,188,88,311,44"/>
+<area shape="rect" id="Node000005" title=" " alt="" coords="198,94,266,120"/>
+<area shape="poly" id="edge4_Node000001_Node000005" title=" " alt="" coords="335,49,267,88,265,83,332,44"/>
+<area shape="rect" id="Node000006" title=" " alt="" coords="291,94,355,120"/>
+<area shape="poly" id="edge5_Node000001_Node000006" title=" " alt="" coords="358,48,339,82,335,79,354,45"/>
+<area shape="rect" id="Node000007" title=" " alt="" coords="379,94,445,120"/>
+<area shape="poly" id="edge6_Node000001_Node000007" title=" " alt="" coords="380,45,400,79,395,82,376,48"/>
+<area shape="rect" id="Node000008" title=" " alt="" coords="470,94,523,120"/>
+<area shape="poly" id="edge7_Node000001_Node000008" title=" " alt="" coords="400,44,465,83,462,88,397,49"/>
+<area shape="rect" id="Node000009" title=" " alt="" coords="547,94,619,120"/>
+<area shape="poly" id="edge8_Node000001_Node000009" title=" " alt="" coords="422,44,536,86,535,91,420,49"/>
+<area shape="rect" id="Node000010" title=" " alt="" coords="642,94,705,120"/>
+<area shape="poly" id="edge9_Node000001_Node000010" title=" " alt="" coords="433,41,628,90,626,96,432,46"/>
+<area shape="rect" id="Node000011" href="$global_8h.html" title=" " alt="" coords="729,94,794,120"/>
+<area shape="poly" id="edge10_Node000001_Node000011" title=" " alt="" coords="433,36,714,91,713,96,432,41"/>
+<area shape="poly" id="edge11_Node000011_Node000002" title=" " alt="" coords="729,119,717,122,550,154,416,176,415,170,550,149,716,117,728,114"/>
+</map>

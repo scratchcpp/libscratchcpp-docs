@@ -1,0 +1,13 @@
+<map id="Graphical Class Hierarchy" name="Graphical Class Hierarchy">
+<area shape="rect" id="Node000000" title=" " alt="" coords="5,270,104,296"/>
+<area shape="rect" id="Node000001" href="$structlibscratchcpp_1_1sigslot_1_1trait_1_1detail_1_1has__call__operator_3_01F_00_01void__t_3_0120786f611e687cc56455f33856dd4adc.html" title=" " alt="" coords="154,5,350,91"/>
+<area shape="poly" id="edge35_Node000000_Node000001" title=" " alt="" coords="62,254,94,180,119,139,150,101,163,89,166,93,154,105,124,142,99,183,67,256"/>
+<area shape="rect" id="Node000002" href="$structlibscratchcpp_1_1sigslot_1_1trait_1_1detail_1_1is__callable_3_01F_00_01P_00_01typelist_3_017c8a914e0739014729bfd57d960917a.html" title=" " alt="" coords="152,115,352,216"/>
+<area shape="poly" id="edge36_Node000000_Node000002" title=" " alt="" coords="90,259,165,214,167,219,92,264"/>
+<area shape="rect" id="Node000003" href="$structlibscratchcpp_1_1sigslot_1_1trait_1_1detail_1_1is__callable_3_01F_00_01typelist_3_01T_8_8_e70cc0173dce1a00fa41302f87536cd5.html" title=" " alt="" coords="160,240,344,326"/>
+<area shape="poly" id="edge37_Node000000_Node000003" title=" " alt="" coords="119,280,160,280,160,286,119,286"/>
+<area shape="rect" id="Node000004" href="$structlibscratchcpp_1_1sigslot_1_1trait_1_1detail_1_1is__signal_3_01signal__base_3_01L_00_01T_8_8_8_01_4_01_4.html" title=" " alt="" coords="169,350,335,405"/>
+<area shape="poly" id="edge38_Node000000_Node000004" title=" " alt="" coords="92,302,153,335,178,347,176,352,150,340,89,306"/>
+<area shape="rect" id="Node000005" href="$structlibscratchcpp_1_1sigslot_1_1trait_1_1detail_1_1is__weak__ptr_3_01T_00_01void__t_3_01declty3f049787b9b53fee9d937b1f6d0ded71.html" title=" " alt="" coords="166,429,338,545"/>
+<area shape="poly" id="edge39_Node000000_Node000005" title=" " alt="" coords="73,308,107,360,154,416,167,428,164,432,150,419,103,363,69,311"/>
+</map>

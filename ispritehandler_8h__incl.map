@@ -1,0 +1,20 @@
+<map id="include/scratchcpp/ispritehandler.h" name="include/scratchcpp/ispritehandler.h">
+<area shape="rect" id="Node000001" title=" " alt="" coords="5,5,136,46"/>
+<area shape="rect" id="Node000002" href="$global_8h.html" title=" " alt="" coords="54,315,119,341"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="74,47,88,300,82,300,69,47"/>
+<area shape="rect" id="Node000004" href="$sprite_8h.html" title=" " alt="" coords="98,94,161,120"/>
+<area shape="poly" id="edge3_Node000001_Node000004" title=" " alt="" coords="87,45,113,80,109,83,83,48"/>
+<area shape="rect" id="Node000003" title=" " alt="" coords="60,389,113,414"/>
+<area shape="poly" id="edge2_Node000002_Node000003" title=" " alt="" coords="89,341,89,373,84,373,84,341"/>
+<area shape="rect" id="Node000005" href="$target_8h.html" title=" " alt="" coords="121,168,185,193"/>
+<area shape="poly" id="edge4_Node000004_Node000005" title=" " alt="" coords="136,119,147,152,142,154,131,121"/>
+<area shape="poly" id="edge6_Node000005_Node000002" title=" " alt="" coords="145,195,114,243,95,301,90,299,109,240,141,192"/>
+<area shape="rect" id="Node000006" title=" " alt="" coords="125,241,182,267"/>
+<area shape="poly" id="edge5_Node000005_Node000006" title=" " alt="" coords="156,194,156,226,151,226,151,194"/>
+<area shape="rect" id="Node000007" title=" " alt="" coords="231,315,300,341"/>
+<area shape="poly" id="edge7_Node000005_Node000007" title=" " alt="" coords="187,186,234,204,256,219,274,240,280,255,282,270,278,300,272,300,277,270,275,256,270,243,253,223,231,209,185,191"/>
+<area shape="rect" id="Node000008" href="$rect_8h.html" title=" " alt="" coords="207,241,260,267"/>
+<area shape="poly" id="edge8_Node000005_Node000008" title=" " alt="" coords="169,192,210,229,207,233,165,196"/>
+<area shape="poly" id="edge9_Node000008_Node000002" title=" " alt="" coords="209,270,126,310,124,305,207,265"/>
+<area shape="poly" id="edge10_Node000008_Node000007" title=" " alt="" coords="241,266,256,300,251,302,236,268"/>
+</map>

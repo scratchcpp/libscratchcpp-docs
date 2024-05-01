@@ -1,0 +1,23 @@
+<map id="src/scratchconfiguration.cpp" name="src/scratchconfiguration.cpp">
+<area shape="rect" id="Node000001" title=" " alt="" coords="397,5,581,31"/>
+<area shape="rect" id="Node000002" href="$scratchconfiguration_8h.html" title=" " alt="" coords="5,79,221,105"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="425,34,192,78,191,73,424,29"/>
+<area shape="rect" id="Node000007" href="$igraphicseffect_8h.html" title=" " alt="" coords="245,79,429,105"/>
+<area shape="poly" id="edge6_Node000001_Node000007" title=" " alt="" coords="464,34,378,74,376,70,462,29"/>
+<area shape="rect" id="Node000008" title=" " alt="" coords="453,79,525,105"/>
+<area shape="poly" id="edge9_Node000001_Node000008" title=" " alt="" coords="492,31,492,63,486,63,486,31"/>
+<area shape="rect" id="Node000009" title=" " alt="" coords="548,79,710,105"/>
+<area shape="poly" id="edge10_Node000001_Node000009" title=" " alt="" coords="514,29,593,69,591,74,512,34"/>
+<area shape="rect" id="Node000010" title=" " alt="" coords="734,79,895,105"/>
+<area shape="poly" id="edge11_Node000001_Node000010" title=" " alt="" coords="545,29,745,73,744,78,544,34"/>
+<area shape="rect" id="Node000003" title=" " alt="" coords="27,153,95,178"/>
+<area shape="poly" id="edge2_Node000002_Node000003" title=" " alt="" coords="107,106,81,142,77,138,102,103"/>
+<area shape="rect" id="Node000004" title=" " alt="" coords="119,153,176,178"/>
+<area shape="poly" id="edge3_Node000002_Node000004" title=" " alt="" coords="121,104,137,137,133,140,116,106"/>
+<area shape="rect" id="Node000005" href="$global_8h.html" title=" " alt="" coords="234,153,299,178"/>
+<area shape="poly" id="edge4_Node000002_Node000005" title=" " alt="" coords="140,103,228,143,226,148,138,108"/>
+<area shape="rect" id="Node000006" title=" " alt="" coords="274,226,328,252"/>
+<area shape="poly" id="edge5_Node000005_Node000006" title=" " alt="" coords="274,177,291,211,286,213,270,180"/>
+<area shape="poly" id="edge8_Node000007_Node000005" title=" " alt="" coords="327,107,291,143,287,140,323,103"/>
+<area shape="poly" id="edge7_Node000007_Node000006" title=" " alt="" coords="337,106,310,212,305,211,331,104"/>
+</map>

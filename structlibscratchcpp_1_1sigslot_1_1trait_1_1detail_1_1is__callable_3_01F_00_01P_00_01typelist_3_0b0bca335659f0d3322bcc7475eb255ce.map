@@ -1,0 +1,5 @@
+<map id="libscratchcpp::sigslot::trait::detail::is_callable&lt; F, P, typelist&lt; T... &gt;, void_t&lt; decltype(((*std::declval&lt; P &gt;()).*std::declval&lt; F &gt;())(std::declval&lt; T &gt;()...))&gt; &gt;" name="libscratchcpp::sigslot::trait::detail::is_callable&lt; F, P, typelist&lt; T... &gt;, void_t&lt; decltype(((*std::declval&lt; P &gt;()).*std::declval&lt; F &gt;())(std::declval&lt; T &gt;()...))&gt; &gt;">
+<area shape="rect" id="Node000001" title=" " alt="" coords="5,79,206,180"/>
+<area shape="rect" id="Node000002" title=" " alt="" coords="56,5,155,31"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="108,47,108,78,103,78,103,47"/>
+</map>

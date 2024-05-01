@@ -1,0 +1,17 @@
+<map id="Graphical Class Hierarchy" name="Graphical Class Hierarchy">
+<area shape="rect" id="Node000000" title=" " alt="" coords="5,249,110,274"/>
+<area shape="rect" id="Node000001" href="$structlibscratchcpp_1_1sigslot_1_1trait_1_1detail_1_1is__weak__ptr.html" title=" " alt="" coords="178,13,356,84"/>
+<area shape="poly" id="edge28_Node000000_Node000001" title=" " alt="" coords="66,233,100,164,125,126,156,93,176,78,179,82,159,97,129,130,104,167,71,235"/>
+<area shape="rect" id="Node000003" href="$structlibscratchcpp_1_1sigslot_1_1trait_1_1detail_1_1has__call__operator.html" title=" " alt="" coords="159,107,375,163"/>
+<area shape="poly" id="edge30_Node000000_Node000003" title=" " alt="" coords="79,235,114,203,156,171,176,161,178,166,159,176,117,207,83,239"/>
+<area shape="rect" id="Node000004" href="$structlibscratchcpp_1_1sigslot_1_1trait_1_1detail_1_1is__callable.html" title=" " alt="" coords="158,186,376,257"/>
+<area shape="poly" id="edge31_Node000000_Node000004" title=" " alt="" coords="124,246,157,240,158,245,125,251"/>
+<area shape="rect" id="Node000005" href="$structlibscratchcpp_1_1sigslot_1_1trait_1_1detail_1_1is__signal.html" title=" " alt="" coords="181,281,353,322"/>
+<area shape="poly" id="edge32_Node000000_Node000005" title=" " alt="" coords="125,272,181,282,180,288,124,277"/>
+<area shape="rect" id="Node000006" href="$structlibscratchcpp_1_1sigslot_1_1trait_1_1detail_1_1is__weak__ptr.html" title=" " alt="" coords="196,346,338,401"/>
+<area shape="poly" id="edge33_Node000000_Node000006" title=" " alt="" coords="87,282,120,307,159,331,196,348,194,353,156,336,117,311,84,286"/>
+<area shape="rect" id="Node000007" href="$structlibscratchcpp_1_1sigslot_1_1trait_1_1detail_1_1is__weak__ptr__compatible.html" title=" " alt="" coords="164,426,370,481"/>
+<area shape="poly" id="edge34_Node000000_Node000007" title=" " alt="" coords="72,287,106,350,130,383,159,411,177,423,174,428,156,416,126,386,101,352,68,290"/>
+<area shape="rect" id="Node000002" href="$structlibscratchcpp_1_1sigslot_1_1trait_1_1detail_1_1is__weak__ptr__compatible_3_01T_00_01void__123a3d42d73f401d0fe7a72a916f3e0d.html" title=" " alt="" coords="424,5,590,91"/>
+<area shape="poly" id="edge29_Node000001_Node000002" title=" " alt="" coords="371,46,423,46,423,51,371,51"/>
+</map>

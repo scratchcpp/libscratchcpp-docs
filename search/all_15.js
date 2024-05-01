@@ -1,0 +1,7 @@
+var searchData=
+[
+  ['warp_0',['warp',['../classlibscratchcpp_1_1BlockPrototype.html#a46c0c31f85c8fd209c34d6a0df2d8bed',1,'libscratchcpp::BlockPrototype::warp()'],['../classlibscratchcpp_1_1Compiler.html#a47bf652fb1d229f52c2477a72985cf93',1,'libscratchcpp::Compiler::warp()']]],
+  ['why_20should_20effects_20be_20registered_1',['Why should effects be registered?',['../graphicsEffects.html#autotoc_md11',1,'']]],
+  ['width_2',['width',['../classlibscratchcpp_1_1Comment.html#ac57934f73510f3346cf3be3e0d6f70e0',1,'libscratchcpp::Comment::width()'],['../classlibscratchcpp_1_1Monitor.html#a20f49f2abac026b06373a823e2b0ff99',1,'libscratchcpp::Monitor::width()'],['../classlibscratchcpp_1_1Rect.html#a2068b52e991cc65f85afe6de9e4c8ebb',1,'libscratchcpp::Rect::width()']]],
+  ['write_3',['write',['../classlibscratchcpp_1_1sigslot_1_1detail_1_1copy__on__write.html#a4d0d74c32083ff700cdeaea8ba850b62',1,'libscratchcpp::sigslot::detail::copy_on_write']]]
+];

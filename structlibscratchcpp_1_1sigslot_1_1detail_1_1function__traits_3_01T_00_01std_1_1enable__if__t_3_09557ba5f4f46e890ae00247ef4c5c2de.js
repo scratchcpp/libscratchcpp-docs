@@ -1,0 +1,4 @@
+var structlibscratchcpp_1_1sigslot_1_1detail_1_1function__traits_3_01T_00_01std_1_1enable__if__t_3_09557ba5f4f46e890ae00247ef4c5c2de =
+[
+    [ "call_type", "structlibscratchcpp_1_1sigslot_1_1detail_1_1function__traits_3_01T_00_01std_1_1enable__if__t_3_09557ba5f4f46e890ae00247ef4c5c2de.html#a1252804798ee6d09bc0ab0b09a222c26", null ]
+];

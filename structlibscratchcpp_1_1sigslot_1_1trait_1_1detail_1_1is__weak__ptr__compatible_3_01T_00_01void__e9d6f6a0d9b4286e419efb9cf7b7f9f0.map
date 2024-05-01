@@ -1,0 +1,7 @@
+<map id="libscratchcpp::sigslot::trait::detail::is_weak_ptr_compatible&lt; T, void_t&lt; decltype(to_weak(std::declval&lt; T &gt;()))&gt; &gt;" name="libscratchcpp::sigslot::trait::detail::is_weak_ptr_compatible&lt; T, void_t&lt; decltype(to_weak(std::declval&lt; T &gt;()))&gt; &gt;">
+<area shape="rect" id="Node000001" title=" " alt="" coords="383,5,549,91"/>
+<area shape="rect" id="Node000002" href="$structlibscratchcpp_1_1sigslot_1_1trait_1_1detail_1_1is__weak__ptr.html" title=" " alt="" coords="158,13,335,84"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="350,46,382,46,382,51,350,51"/>
+<area shape="rect" id="Node000003" title=" " alt="" coords="5,35,110,61"/>
+<area shape="poly" id="edge2_Node000002_Node000003" title=" " alt="" coords="125,46,157,46,157,51,125,51"/>
+</map>

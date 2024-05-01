@@ -1,0 +1,23 @@
+<map id="Graphical Class Hierarchy" name="Graphical Class Hierarchy">
+<area shape="rect" id="Node000000" title=" " alt="" coords="18,5,129,31"/>
+<area shape="rect" id="Node000001" href="$classlibscratchcpp_1_1List.html" title="The List class represents a Scratch list." alt="" coords="208,5,335,31"/>
+<area shape="poly" id="edge15_Node000000_Node000001" title=" " alt="" coords="145,16,208,16,208,21,145,21"/>
+<area shape="rect" id="Node000002" href="$classlibscratchcpp_1_1Entity.html" title="The Entity class is the base class of everything that is identified by an ID (Target,..." alt="" coords="5,153,142,179"/>
+<area shape="poly" id="edge22_Node000002_Node000001" title=" " alt="" coords="90,139,131,89,158,62,188,40,210,29,213,34,191,44,162,66,135,92,94,142"/>
+<area shape="rect" id="Node000003" href="$classlibscratchcpp_1_1Asset.html" title="The Asset class represents a Scratch asset, for example a Costume or a Sound." alt="" coords="202,55,341,80"/>
+<area shape="poly" id="edge16_Node000002_Node000003" title=" " alt="" coords="102,142,142,115,189,89,216,78,218,83,191,94,145,119,105,146"/>
+<area shape="rect" id="Node000006" href="$classlibscratchcpp_1_1Block.html" title="The Block class represents a Scratch block." alt="" coords="203,104,340,130"/>
+<area shape="poly" id="edge19_Node000002_Node000006" title=" " alt="" coords="142,146,216,128,217,133,143,152"/>
+<area shape="rect" id="Node000007" href="$classlibscratchcpp_1_1Broadcast.html" title="The Broadcast class represents a Scratch broadcast." alt="" coords="190,153,353,179"/>
+<area shape="poly" id="edge20_Node000002_Node000007" title=" " alt="" coords="157,164,189,164,189,169,157,169"/>
+<area shape="rect" id="Node000008" href="$classlibscratchcpp_1_1Comment.html" title="The Comment class represents a comment in the code area." alt="" coords="191,203,352,228"/>
+<area shape="poly" id="edge21_Node000002_Node000008" title=" " alt="" coords="143,181,217,199,216,205,142,186"/>
+<area shape="rect" id="Node000009" href="$classlibscratchcpp_1_1Monitor.html" title="The Monitor class represents a stage monitor." alt="" coords="198,252,345,278"/>
+<area shape="poly" id="edge23_Node000002_Node000009" title=" " alt="" coords="105,186,145,213,191,238,218,249,216,254,189,243,142,218,102,191"/>
+<area shape="rect" id="Node000010" href="$classlibscratchcpp_1_1Variable.html" title="The Variable class represents a Scratch variable." alt="" coords="196,301,347,327"/>
+<area shape="poly" id="edge24_Node000002_Node000010" title=" " alt="" coords="94,190,135,240,162,266,191,288,213,298,210,303,188,292,158,270,131,244,90,194"/>
+<area shape="rect" id="Node000004" href="$classlibscratchcpp_1_1Costume.html" title="The Costume class represents a Scratch costume." alt="" coords="401,31,557,56"/>
+<area shape="poly" id="edge17_Node000003_Node000004" title=" " alt="" coords="356,55,400,50,401,55,356,60"/>
+<area shape="rect" id="Node000005" href="$classlibscratchcpp_1_1Sound.html" title="The Sound class represents a Scratch sound." alt="" coords="409,80,550,106"/>
+<area shape="poly" id="edge18_Node000003_Node000005" title=" " alt="" coords="356,75,408,82,408,87,356,80"/>
+</map>
