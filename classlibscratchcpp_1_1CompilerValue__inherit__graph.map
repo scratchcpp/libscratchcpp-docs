@@ -1,0 +1,5 @@
+<map id="libscratchcpp::CompilerValue" name="libscratchcpp::CompilerValue">
+<area shape="rect" id="Node000001" title="The CompilerValue class represents a local value in compiled code." alt="" coords="15,5,203,31"/>
+<area shape="rect" id="Node000002" href="$classlibscratchcpp_1_1CompilerConstant.html" title="The CompilerConstant class represents a constant value in compiled code." alt="" coords="5,79,213,105"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="112,46,112,79,106,79,106,46"/>
+</map>
