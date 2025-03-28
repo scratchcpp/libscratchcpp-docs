@@ -1,0 +1,14 @@
+<map id="include/scratchcpp/textbubble.h" name="include/scratchcpp/textbubble.h">
+<area shape="rect" id="Node000001" title=" " alt="" coords="110,5,240,46"/>
+<area shape="rect" id="Node000002" href="$drawable_8h.html" title=" " alt="" coords="95,94,178,120"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="168,48,152,81,147,79,163,45"/>
+<area shape="rect" id="Node000005" title=" " alt="" coords="189,168,255,193"/>
+<area shape="poly" id="edge6_Node000001_Node000005" title=" " alt="" coords="184,45,216,152,211,154,179,47"/>
+<area shape="rect" id="Node000003" href="$global_8h.html" title=" " alt="" coords="5,168,71,193"/>
+<area shape="poly" id="edge2_Node000002_Node000003" title=" " alt="" coords="121,122,68,161,65,156,118,118"/>
+<area shape="poly" id="edge4_Node000002_Node000005" title=" " alt="" coords="153,118,198,156,195,160,149,122"/>
+<area shape="rect" id="Node000006" title=" " alt="" coords="95,168,165,193"/>
+<area shape="poly" id="edge5_Node000002_Node000006" title=" " alt="" coords="138,120,135,152,130,152,133,120"/>
+<area shape="rect" id="Node000004" title=" " alt="" coords="11,241,65,267"/>
+<area shape="poly" id="edge3_Node000003_Node000004" title=" " alt="" coords="41,194,41,226,35,226,35,194"/>
+</map>
