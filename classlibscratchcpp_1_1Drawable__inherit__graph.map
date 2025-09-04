@@ -1,0 +1,11 @@
+<map id="libscratchcpp::Drawable" name="libscratchcpp::Drawable">
+<area shape="rect" id="Node000001" title="The Drawable class is the base class of rendered elements (stage, sprites, text bubbles)." alt="" coords="166,5,324,31"/>
+<area shape="rect" id="Node000002" href="$classlibscratchcpp_1_1Target.html" title="The Target class is the Stage or a Sprite." alt="" coords="85,79,226,105"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="220,43,172,81,169,77,217,39"/>
+<area shape="rect" id="Node000005" href="$classlibscratchcpp_1_1TextBubble.html" title="The TextBubble class represents a text bubble created using say or think block." alt="" coords="251,79,420,105"/>
+<area shape="poly" id="edge4_Node000001_Node000005" title=" " alt="" coords="274,39,322,77,319,81,271,43"/>
+<area shape="rect" id="Node000003" href="$classlibscratchcpp_1_1Sprite.html" title="The Sprite class represents a Scratch sprite." alt="" coords="5,153,144,178"/>
+<area shape="poly" id="edge2_Node000002_Node000003" title=" " alt="" coords="132,117,90,154,86,150,129,113"/>
+<area shape="rect" id="Node000004" href="$classlibscratchcpp_1_1Stage.html" title="The Stage class is the project stage." alt="" coords="168,153,306,178"/>
+<area shape="poly" id="edge3_Node000002_Node000004" title=" " alt="" coords="183,113,225,150,222,154,179,117"/>
+</map>

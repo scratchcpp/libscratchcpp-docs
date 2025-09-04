@@ -1,0 +1,5 @@
+<map id="libscratchcpp::ValueData" name="libscratchcpp::ValueData">
+<area shape="rect" id="Node000001" title="The ValueData struct holds the data of Value. It&#39;s used in compiled Scratch code for better performan..." alt="" coords="5,94,170,120"/>
+<area shape="rect" id="Node000002" href="$structlibscratchcpp_1_1StringPtr.html" title="The StringPtr struct holds a string data pointer and string size." alt="" coords="10,5,165,31"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="90,47,90,94,85,94,85,47"/>
+</map>
