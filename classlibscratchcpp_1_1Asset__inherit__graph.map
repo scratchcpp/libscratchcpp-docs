@@ -1,0 +1,9 @@
+<map id="libscratchcpp::Asset" name="libscratchcpp::Asset">
+<area shape="rect" id="Node000001" title="The Asset class represents a Scratch asset, for example a Costume or a Sound." alt="" coords="101,79,239,105"/>
+<area shape="rect" id="Node000003" href="$classlibscratchcpp_1_1Costume.html" title="The Costume class represents a Scratch costume." alt="" coords="5,153,162,178"/>
+<area shape="poly" id="edge2_Node000001_Node000003" title=" " alt="" coords="145,117,100,154,96,150,142,113"/>
+<area shape="rect" id="Node000004" href="$classlibscratchcpp_1_1Sound.html" title="The Sound class represents a Scratch sound." alt="" coords="186,153,328,178"/>
+<area shape="poly" id="edge3_Node000001_Node000004" title=" " alt="" coords="198,113,244,150,241,154,195,117"/>
+<area shape="rect" id="Node000002" href="$classlibscratchcpp_1_1Entity.html" title="The Entity class is the base class of everything that is identified by an ID (Target,..." alt="" coords="102,5,238,31"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="173,46,173,79,168,79,168,46"/>
+</map>

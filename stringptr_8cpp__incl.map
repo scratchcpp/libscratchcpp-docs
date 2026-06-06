@@ -1,0 +1,12 @@
+<map id="src/scratch/stringptr.cpp" name="src/scratch/stringptr.cpp">
+<area shape="rect" id="Node000001" title=" " alt="" coords="5,5,167,31"/>
+<area shape="rect" id="Node000002" href="$stringptr_8h.html" title=" " alt="" coords="13,153,159,178"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="76,33,53,65,46,84,47,104,56,122,67,139,62,142,51,125,42,105,41,83,48,62,72,30"/>
+<area shape="rect" id="Node000005" href="$string__functions_8h.html" title=" " alt="" coords="57,79,248,105"/>
+<area shape="poly" id="edge4_Node000001_Node000005" title=" " alt="" coords="99,29,133,66,129,69,95,33"/>
+<area shape="rect" id="Node000003" href="$global_8h.html" title=" " alt="" coords="53,226,119,252"/>
+<area shape="poly" id="edge2_Node000002_Node000003" title=" " alt="" coords="89,179,89,211,83,211,83,179"/>
+<area shape="rect" id="Node000004" title=" " alt="" coords="59,300,113,326"/>
+<area shape="poly" id="edge3_Node000003_Node000004" title=" " alt="" coords="89,252,89,284,83,284,83,252"/>
+<area shape="poly" id="edge5_Node000005_Node000002" title=" " alt="" coords="144,107,110,143,106,139,140,103"/>
+</map>
