@@ -1,0 +1,11 @@
+<map id="include/scratchcpp/scratchconfiguration.h" name="include/scratchcpp/scratchconfiguration.h">
+<area shape="rect" id="Node000001" title=" " alt="" coords="50,5,201,46"/>
+<area shape="rect" id="Node000002" title=" " alt="" coords="5,94,73,120"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="106,48,65,85,62,81,102,44"/>
+<area shape="rect" id="Node000003" title=" " alt="" coords="97,94,154,120"/>
+<area shape="poly" id="edge2_Node000001_Node000003" title=" " alt="" coords="128,46,128,78,123,78,123,46"/>
+<area shape="rect" id="Node000004" href="$global_8h.html" title=" " alt="" coords="178,94,244,120"/>
+<area shape="poly" id="edge3_Node000001_Node000004" title=" " alt="" coords="149,44,189,81,185,85,145,48"/>
+<area shape="rect" id="Node000005" title=" " alt="" coords="184,168,238,193"/>
+<area shape="poly" id="edge4_Node000004_Node000005" title=" " alt="" coords="214,120,214,152,208,152,208,120"/>
+</map>

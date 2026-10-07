@@ -1,0 +1,17 @@
+<map id="include/scratchcpp/compiler.h" name="include/scratchcpp/compiler.h">
+<area shape="rect" id="Node000001" title=" " alt="" coords="181,5,312,46"/>
+<area shape="rect" id="Node000002" title=" " alt="" coords="5,94,109,120"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="200,49,101,90,99,85,198,44"/>
+<area shape="rect" id="Node000003" title=" " alt="" coords="132,94,190,120"/>
+<area shape="poly" id="edge2_Node000001_Node000003" title=" " alt="" coords="227,48,187,85,183,81,223,44"/>
+<area shape="rect" id="Node000004" href="$global_8h.html" title=" " alt="" coords="214,94,279,120"/>
+<area shape="poly" id="edge3_Node000001_Node000004" title=" " alt="" coords="249,46,249,78,244,78,244,46"/>
+<area shape="rect" id="Node000006" href="$enum__bitmask_8h.html" title=" " alt="" coords="303,94,419,120"/>
+<area shape="poly" id="edge5_Node000001_Node000006" title=" " alt="" coords="276,44,333,83,330,87,273,49"/>
+<area shape="rect" id="Node000008" title=" " alt="" coords="444,94,513,120"/>
+<area shape="poly" id="edge7_Node000001_Node000008" title=" " alt="" coords="305,44,430,86,428,91,303,49"/>
+<area shape="rect" id="Node000005" title=" " alt="" coords="220,168,273,193"/>
+<area shape="poly" id="edge4_Node000004_Node000005" title=" " alt="" coords="249,120,249,152,244,152,244,120"/>
+<area shape="rect" id="Node000007" title=" " alt="" coords="320,168,402,193"/>
+<area shape="poly" id="edge6_Node000006_Node000007" title=" " alt="" coords="364,120,364,152,358,152,358,120"/>
+</map>
