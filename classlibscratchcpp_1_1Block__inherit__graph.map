@@ -1,0 +1,7 @@
+<map id="libscratchcpp::Block" name="libscratchcpp::Block">
+<area shape="rect" id="Node000001" title="The Block class represents a Scratch block." alt="" coords="85,94,222,120"/>
+<area shape="rect" id="Node000002" href="$classlibscratchcpp_1_1Entity.html" title="The Entity class is the base class of everything that is identified by an ID (Target,..." alt="" coords="5,13,142,38"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="98,48,143,92,139,95,94,51"/>
+<area shape="rect" id="Node000003" title=" " alt="" coords="166,5,304,46"/>
+<area shape="poly" id="edge2_Node000001_Node000003" title=" " alt="" coords="206,59,168,95,164,91,202,55"/>
+</map>
