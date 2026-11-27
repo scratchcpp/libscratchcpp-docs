@@ -1,0 +1,5 @@
+<map id="libscratchcpp::TextBubble" name="libscratchcpp::TextBubble">
+<area shape="rect" id="Node000001" title="The TextBubble class represents a text bubble created using say or think block." alt="" coords="5,79,175,105"/>
+<area shape="rect" id="Node000002" href="$classlibscratchcpp_1_1Drawable.html" title="The Drawable class is the base class of rendered elements (stage, sprites, text bubbles)." alt="" coords="11,5,169,31"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="93,46,93,79,87,79,87,46"/>
+</map>

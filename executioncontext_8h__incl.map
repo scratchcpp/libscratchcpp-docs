@@ -1,0 +1,15 @@
+<map id="include/scratchcpp/executioncontext.h" name="include/scratchcpp/executioncontext.h">
+<area shape="rect" id="Node000001" title=" " alt="" coords="95,5,228,46"/>
+<area shape="rect" id="Node000002" title=" " alt="" coords="5,94,59,120"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="131,49,66,88,63,83,128,44"/>
+<area shape="rect" id="Node000003" title=" " alt="" coords="83,94,141,120"/>
+<area shape="poly" id="edge2_Node000001_Node000003" title=" " alt="" coords="151,48,130,82,125,79,147,45"/>
+<area shape="rect" id="Node000004" href="$string__pool_8h.html" title=" " alt="" coords="165,94,259,120"/>
+<area shape="poly" id="edge3_Node000001_Node000004" title=" " alt="" coords="176,45,198,79,194,82,172,48"/>
+<area shape="rect" id="Node000007" title=" " alt="" coords="283,94,352,120"/>
+<area shape="poly" id="edge6_Node000001_Node000007" title=" " alt="" coords="201,44,281,84,279,89,199,49"/>
+<area shape="rect" id="Node000005" href="$global_8h.html" title=" " alt="" coords="179,168,245,193"/>
+<area shape="poly" id="edge4_Node000004_Node000005" title=" " alt="" coords="215,120,215,152,209,152,209,120"/>
+<area shape="rect" id="Node000006" title=" " alt="" coords="185,241,239,267"/>
+<area shape="poly" id="edge5_Node000005_Node000006" title=" " alt="" coords="215,194,215,226,209,226,209,194"/>
+</map>
